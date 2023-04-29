@@ -26,7 +26,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="Enter Name"
+        android:hint="Enter Name"
         android:id="@+id/etName"/>
 
         <!--email -->
@@ -51,7 +51,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="Enter Email"
+        android:hint="Enter Email"
         android:id="@+id/etEmail"/>
     
     <Button
